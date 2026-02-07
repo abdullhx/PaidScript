@@ -13,4 +13,4 @@ local Window = Rayfield:CreateWindow({
 -- تحميل الواجهة الأولى Silent Aim
 local Tab1 = Window:CreateTab("Silent Aim")
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/tabs/silent_aim.lua"))()(Tab1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abdullhx/PaidScript/refs/heads/main/tabs/silent_aim.lua"))()(Tab1)
